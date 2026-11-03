@@ -1,5 +1,11 @@
 # @ai-sdk/harness-opencode
 
+## 1.0.177
+
+### Patch Changes
+
+- 30548ee: fix(harness-opencode): ensure OpenCode ignores repo-specific settings
+
 ## 1.0.176
 
 ### Patch Changes
